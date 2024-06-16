@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Quiz app**
 
-- 🌱 I’m currently learning **React and Nodejs**
+- 🌱 I’m currently learning **Backend using express and mongodb**
 
-- 💬 Ask me about **Frontend and DSA**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **withatifansari@gmail.com**
 
