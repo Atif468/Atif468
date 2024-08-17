@@ -24,7 +24,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
