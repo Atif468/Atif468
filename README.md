@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Atif Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
 - 🔭 I’m currently **Building Projects**
