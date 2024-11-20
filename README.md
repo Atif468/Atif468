@@ -7,64 +7,75 @@
 
 ---
 
-💻 **Currently Working On:**  
-🚀 **Building Awesome Projects** to enhance user experience and solve real-world problems!
-
-🔍 **Ask Me About:**  
-📚 **Data Structures and Algorithms**  
-💡 **Web Development**  
-🎮 **Building Scalable Web Applications**
-
-📫 **How to Reach Me:**  
-Feel free to connect via [**Email**](mailto:withatifansari@gmail.com)
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/atif468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/atif_22015001907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/atif_32395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/atifans468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="center">Languages and Tools I Use:</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=I+build+dynamic+%26+responsive+web+apps;Love+exploring+new+tech+%26+solving+problems!" alt="Typing Animation"/>
 </div>
 
 ---
 
-<h3 align="center">My GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif468&show_icons=true&locale=en&layout=compact" alt="atif468" />
-</p>
+### 🌟 About Me:
+- 🔭 **Currently Building:** Projects that solve real-world challenges.  
+- 💬 **Ask Me About:** DSA and Scalable Web Applications.  
+- 📫 **Reach Me At:** [**withatifansari@gmail.com**](mailto:withatifansari@gmail.com)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif468&show_icons=true&locale=en" alt="atif468" />
-</p>
+---
 
+<h3 align="center">🌐 Connect With Me:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif468&" alt="atif468" />
+  <a href="https://linkedin.com/in/atif468" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/atif_22015001907" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/000000/hackerrank.png" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/atif_32395" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/atifans468" target="_blank">
+    <img src="https://img.icons8.com/color/50/000000/geeksforgeeks.png" alt="GeeksForGeeks" />
+  </a>
 </p>
 
 ---
+
+<h3 align="center">🚀 Languages and Tools:</h3>
+<div align="center">
+  <img src="https://img.icons8.com/3d-fluency/50/null/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/react.png" alt="React" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/git.png" alt="Git" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/github.png" alt="GitHub" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/visual-studio-code-2019.png" alt="VS Code" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/3d-fluency/50/null/java-coffee-cup-logo.png" alt="Java" />
+</div>
+
+---
+
+<h3 align="center">📊 My GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif468&theme=radical&layout=compact" alt="Most Used Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif468&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif468&theme=radical" alt="GitHub Streaks" />
+</p>
+
+---
+
+<h3 align="center">🎯 Fun Fact:</h3>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke of the Day!" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" alt="Dino Coding" />
+</div>
