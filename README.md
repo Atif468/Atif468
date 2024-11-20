@@ -1,25 +1,36 @@
 <h1 align="center">Hi 👋, I'm Mohd Atif Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <div align="center">
   <img alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </div>
 
-- 🔭 I’m currently **Building Projects**
+---
 
-- 💬 Ask me about **DSA**
+💻 **Currently Working On:**  
+🚀 **Building Awesome Projects** to enhance user experience and solve real-world problems!
 
-- 📫 How to reach me **withatifansari@gmail.com**
+🔍 **Ask Me About:**  
+📚 **Data Structures and Algorithms**  
+💡 **Web Development**  
+🎮 **Building Scalable Web Applications**
+
+📫 **How to Reach Me:**  
+Feel free to connect via [**Email**](mailto:withatifansari@gmail.com)
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/atif468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atif468" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/atif_22015001907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atif_22015001907" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/atif_32395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atif_32395" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/atifans468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atifans468" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/atif468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/atif_22015001907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/atif_32395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/atifans468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+---
+
+<h3 align="center">Languages and Tools I Use:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -41,8 +52,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif468&show_icons=true&locale=en&layout=compact" alt="atif468" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atif468&show_icons=true&locale=en" alt="atif468" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif468&" alt="atif468" /></p>
-</div>
+---
+
+<h3 align="center">My GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atif468&show_icons=true&locale=en&layout=compact" alt="atif468" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atif468&show_icons=true&locale=en" alt="atif468" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atif468&" alt="atif468" />
+</p>
+
+---
