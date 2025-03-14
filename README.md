@@ -8,6 +8,7 @@
   </a>
 </div>
 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=atif468&style=for-the-badge&color=3a7bd5" alt="Profile Views"/>
 </div>
@@ -86,14 +87,11 @@ I'm a passionate frontend developer from India with a strong focus on building r
 ## <div align="center">📊 GitHub Stats</div>
 
 <br>
-
 <div>
   <a href="https://github.com/atif468">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atif468&show_icons=true&theme=nightowl&border_color=00d2ff&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
 </div>
-
-<br> 
 
 <div>
   <a href="https://github.com/atif468">
