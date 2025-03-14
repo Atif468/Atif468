@@ -1,7 +1,35 @@
-# <div align="center">✨ Atif Ansari ✨</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Atif%20Ansari&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Specialist;DSA+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+Specialist+%E2%9A%9B%EF%B8%8F;DSA+Enthusiast+%F0%9F%94%A5;Always+Learning+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=atif468&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/atif468/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:withatifansari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://atifansari.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atif468&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=atif468" alt="Contribution Stats"/>
 </div>
 
 <div align="center">
