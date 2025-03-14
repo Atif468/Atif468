@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohd%20Atif%20Ansari&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Atif%20Ansari&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -30,10 +30,6 @@
 
 <div align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=atif468" alt="Contribution Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atif468&label=Profile%20views&color=0e75b6&style=flat" alt="atif468" />
 </div>
 
 ## 🚀 About Me
@@ -101,20 +97,6 @@ I'm a passionate frontend developer from India with a strong focus on building r
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/atif_22015001907)
   [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/atifans468)
   
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/atif468/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:withatifansari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://atifansari.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
 
 ---
