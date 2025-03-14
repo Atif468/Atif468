@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3a7bd5&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+Specialist+%E2%9A%9B%EF%B8%8F;DSA+Enthusiast+%F0%9F%94%A5;Always+Learning+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+Specialist+%E2%9A%9B%EF%B8%8F;DSA+Enthusiast+%F0%9F%94%A5;Always+Learning+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,13 +26,6 @@
   <a href="https://atifansari.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30" alt="Portfolio" />
   </a>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atif468&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
