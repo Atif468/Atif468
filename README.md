@@ -93,8 +93,6 @@ I'm a passionate frontend developer from India with a strong focus on building r
   </a>
 </div>
 
-<br>
-
 <div align="center">
   <a href="https://github.com/atif468">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif468&layout=compact&theme=nightowl&border_color=00d2ff&hide_border=true" />
